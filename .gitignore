@@ -1,0 +1,33 @@
+# Binaries
+*.o
+*.out
+*.exe
+server/server
+client/client
+
+# Logs
+*.log
+build_log.txt
+
+# Archives
+*.tar
+*.tar.gz
+*.zip
+
+# Dependencies
+emp-tool*
+emp-ot*
+emp-agmpc*
+cppzmq*
+pbc*
+
+# Go
+go*
+
+# Data
+database/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
